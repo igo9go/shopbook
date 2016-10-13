@@ -4,7 +4,7 @@
 最基本的 Laravel 路由只接收一个 URI 和一个闭包，并以此提供一个非常简单且优雅的定义路由方法：
 
 ```
-Route::get('foo',
+Route::get('foo', 
      function () { 
         return 'Hello World';
      }
