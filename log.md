@@ -1,4 +1,5 @@
 
 权限控制包
-zizaco/entrustcartalyst/sentrySENTINEL
+zizaco/entrust
+cartalyst/sentrySENTINEL
 romanbican/roles
