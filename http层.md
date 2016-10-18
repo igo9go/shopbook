@@ -77,7 +77,8 @@ HTML 表单不支持 PUT、PATCH 或者 DELETE 请求方法，因此，当定义
 ```
 还可以使用辅助函数 method_field 来实现这一目的：
 
-`{{ method_field('PUT') }}`
+```{{ method_field('PUT') }}
+```
 
 6.访问当前路由
 
